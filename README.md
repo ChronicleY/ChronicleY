@@ -35,13 +35,11 @@
 
 ## 🚀 Featured Project
 
-<div align="center">
-
 <a href="https://github.com/ChronicleY/InfoBoard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicleY&repo=InfoBoard&theme=graywhite&hide_border=true" alt="InfoBoard" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ChronicleY&repo=InfoBoard&theme=graywhite&hide_border=true" alt="InfoBoard" />
 </a>
 
-</div>
+<br clear="left"/>
 
 **InfoBoard · 深大公文通助手 / SZU notice-board assistant**
 
